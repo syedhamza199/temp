@@ -57,7 +57,7 @@ font-weight: bold;
   left: 100px;
 }
 .tittle-image{
-left:60%;
+position:relative;
 }
 .main-t{
   color: white;
